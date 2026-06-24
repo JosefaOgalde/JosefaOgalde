@@ -23,5 +23,5 @@ I am a **Junior Developer (Python/Django/SQL)**, also interested in **Full Stack
 
 - I studied Computer Science UNAB
 - I like to write clean and simple code, with basic tests and documentation.
-- I am learning more about APIs, databases and test automation.
+- I am learning more about databases and test automation.
 - I want to join a team where I can grow, learn from senior developers and add value to real projects.
