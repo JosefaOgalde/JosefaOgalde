@@ -3,7 +3,7 @@
 Desarrolladora **Junior (Python/Django/SQL)**, con interés en **Full Stack**, **Backend** y **QA**. Vengo de una combinación poco común: informática + UX/UI + marketing y producción, lo que me permite construir distintos proyectos pensando en el usuario, la calidad, la mantenibilidad, la tendencias y buenas prácticas.
 
 - **Stack**: Python · Django · SQL · HTML/CSS  
-- **Enfoque**: APIs, buenas prácticas, seguridad básica, testing, documentación, curiosidad por aprender.
+- **Enfoque**: Buenas prácticas, seguridad básica, testing, documentación, curiosidad por aprender.
 
 ## Qué puedo aportar como Junior
 - Desarrollo de features end-to-end con foco en calidad (tests, validaciones y documentación).
